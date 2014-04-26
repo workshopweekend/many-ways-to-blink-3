@@ -16,7 +16,7 @@ In Tutorial 3 we are going to replace the LED with a servo and make it "blink". 
 
 # Code Steps
 * Save the "Many Ways to Blink 2" code as "Many Ways to Blink 3". NOTE: You can see the full code at the end of this tutorial. 
-* You can see all the changes for the tutorial <a href="">here</a>.
+* You can see all the changes for the tutorial <a href="https://github.com/workshopweekend/many-ways-to-blink-3/raw/master/many-ways-to-blink-3.pdf">here</a>.
 * Using a library. There are three things you must do to use an Arduino the library. The first is you need to add the the library into the code. So add the line
 
 
